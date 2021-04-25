@@ -8,6 +8,7 @@ namespace Hello_World
         {
             Console.WriteLine("Hello World and University!");
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("Змінено з IDE");
         }
     }
 }
