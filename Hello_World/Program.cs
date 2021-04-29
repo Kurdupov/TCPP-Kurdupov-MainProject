@@ -10,7 +10,7 @@ namespace Hello_World
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Змінено з браузера");
             Console.WriteLine("Змінено з IDE");
-            Console.WriteLine("Test1");
+            Console.WriteLine("Test2");
         }
     }
 }
